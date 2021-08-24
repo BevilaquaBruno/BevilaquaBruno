@@ -9,7 +9,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 
 I'm [Bruno Bevilaqua](https://bevilaqua.surge.sh) from Brazil ✌
 
-I'm a web developer currently working with [PHP](https://www.php.net/), Javascript and sometimes [NodeJs](https://nodejs.org/en/). For myself i'm learning [Ruby](https://www.ruby-lang.org/en/), [ReactJs](https://reactjs.org/), [VueJs](https://vuejs.org/) and much more! Programming is literally my life! ✌😄
+I'm a web developer currently working with [PHP](https://www.php.net/), Javascript and sometimes [NodeJs](https://nodejs.org/en/). For myself i'm learning [Ruby](https://www.ruby-lang.org/en/), [ReactJs](https://reactjs.org/), [VueJs](https://vuejs.org/) and much more! Programming is literally my life! ✌😄 Contact me using bbbevilaqua@gmail.com!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
