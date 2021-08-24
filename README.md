@@ -82,7 +82,21 @@ In the university first year and second semester we are learning OOP, Database g
 /_/__|__\_\   )
              (
              []
+```
 
+<a href="https://github.com/bevilaquabruno/coinberpunk-react">
+  <img align="right" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=unc_banco1&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
+</a>
+
+```
+      _ _
+ .-. | | |
+ |D|_|I|D|
+ |a|S|s|.|<\
+ |v| |s| | \\
+ |i| |e|B|  \\ Database 1
+ |d| |l| |   \>
+""""""""""""""""""
 ```
 
 ```
