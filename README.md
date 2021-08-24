@@ -9,7 +9,10 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 
 I'm [Bruno Bevilaqua](https://bevilaqua.surge.sh) from Brazil ✌
 
-I'm a web developer currently working with [PHP](https://www.php.net/), Javascript and sometimes [NodeJs](https://nodejs.org/en/). For myself i'm learning [Ruby](https://www.ruby-lang.org/en/), [ReactJs](https://reactjs.org/), [VueJs](https://vuejs.org/) and much more! Programming is literally my life! ✌😄 Contact me using bbbevilaqua@gmail.com!
+I'm a web developer currently working with [PHP](https://www.php.net/), Javascript and sometimes [NodeJs](https://nodejs.org/en/). For myself i'm learning [Ruby](https://www.ruby-lang.org/en/), [ReactJs](https://reactjs.org/), [VueJs](https://vuejs.org/) and much more! Programming is literally my life! ✌😄
+
+
+I'm also studying software engineering at UNC(Universidade do Contestado) in first year second semester. Below i will show what we are working in
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -60,7 +63,30 @@ To lazy to finish it
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bevilaquabruno&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+## At the University
+
+In the university first year and second semester we are learning OOP, Database grade 1 and Software Developer using Java, you can find more here:
+
+<a href="https://github.com/bevilaquabruno/coinberpunk-react">
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=unc_DevSoftware2021&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
+</a>
+
 ```
+   _____
+  | ___ |
+  ||   ||  Java
+  ||___||
+  |   _ |
+  |_____|
+ /_/_|_\_\----.
+/_/__|__\_\   )
+             (
+             []
+
+```
+
+```
+
                       /^--^\     /^--^\     /^--^\
                       \____/     \____/     \____/
                      /      \   /      \   /      \
