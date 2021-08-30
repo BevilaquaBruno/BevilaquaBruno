@@ -12,7 +12,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 
 I'm [Bruno Bevilaqua](https://bevilaqua.surge.sh) from Brazil ✌
 
-I'm a web developer currently working with [PHP](https://www.php.net/), Javascript and sometimes [NodeJs](https://nodejs.org/en/). For myself i'm learning [Ruby](https://www.ruby-lang.org/en/), [ReactJs](https://reactjs.org/), [VueJs](https://vuejs.org/) and much more! Programming is literally my life! ✌😄
+I'm a web developer currently working with [PHP](https://www.php.net/), Javascript and sometimes [NodeJs](https://nodejs.org/en/). For myself i'm learning [Ruby](https://www.ruby-lang.org/en/), [ReactJs](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/) and much more! ✌😄
 
 
 I'm also studying software engineering at UNC(Universidade do Contestado) in first year second semester. Below i will show what we are working in
