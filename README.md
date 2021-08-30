@@ -14,7 +14,7 @@ I'm [Bruno Bevilaqua](https://bevilaqua.surge.sh) from Brazil ✌
 
 👨‍💻 'm a web developer currently working with [PHP](https://www.php.net/), Javascript and sometimes [NodeJs](https://nodejs.org/en/). For myself i'm learning [Ruby](https://www.ruby-lang.org/en/), [ReactJs](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/) and much more! ✌😄
 
-💬 If you want to contact me you can do it in my [Twitter](https://twitter.com/NoWayBevilaqua), [Instagram](https://www.instagram.com/bevilaquabruno/) or my email bbbevilaqua@gmail.com
+💬 If you want to contact me, you can do it in my [Twitter](https://twitter.com/NoWayBevilaqua), [Instagram](https://www.instagram.com/bevilaquabruno/) or my email bbbevilaqua@gmail.com
 
 
 I'm also studying software engineering at UNC(Universidade do Contestado) in first year second semester. Below i will show what we are working in
