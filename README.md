@@ -22,7 +22,7 @@ I'm also studying software engineering at UNC(Universidade do Contestado) in fir
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ```
-Look at the repositories below
+Take a look at the repositories below
          /
     |\__/,|   (`\
   _.|o o  |_   ) )
@@ -32,39 +32,14 @@ Look at the repositories below
   <img align="right" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=coinberpunk-react&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
 </a>
 
-```
- _._     _,-'""`-._
-(,-.`._,'(       |\`-/|
-    `-.-' \ )-`( , o o)
-          `-    \`_`"'-
-              /
-    That's cool
-```
 
 <a href="https://github.com/bevilaquabruno/coinberpunk-react">
   <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=simple-blockchain&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
 </a>
 
-```
- |\__/,|   (`\
- |_ _  |.--.) )
- ( T   )     /
-(((^_(((/(((_/
-                \
-To lazy to finish it
-```
-
 <a href="https://github.com/bevilaquabruno/coinberpunk-react">
   <img align="right" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=myownlibrary&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
 </a>
-
-```
-  |\'/-..--.
- / _ _   ,  ;
-`~=`Y'~_<._./
- <`-....__.'  \
-          Here too
-```
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bevilaquabruno&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
