@@ -50,7 +50,7 @@ Take a look at the repositories below
 
 In the university first year and second semester we are learning OOP, Database grade 1 and Software Development using Java, you can find more here:
 
-<a href="https://github.com/bevilaquabruno/coinberpunk-react">
+<a href="https://github.com/bevilaquabruno/unc_DevSoftware2021">
   <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=unc_DevSoftware2021&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
 </a>
 
@@ -67,7 +67,7 @@ In the university first year and second semester we are learning OOP, Database g
              []
 ```
 
-<a href="https://github.com/bevilaquabruno/coinberpunk-react">
+<a href="https://github.com/bevilaquabruno/unc_banco1">
   <img align="right" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=unc_banco1&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
 </a>
 
