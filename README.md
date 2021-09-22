@@ -36,8 +36,8 @@ Take a look at the repositories below
   <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=simple-blockchain&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/bevilaquabruno/myownlibrary">
-  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=myownlibrary&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
+<a href="https://github.com/bevilaquabruno/library-api">
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=library-api&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/bevilaquabruno/portfolio-papercss">
