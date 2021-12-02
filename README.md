@@ -48,36 +48,5 @@ Take a look at the repositories below
 
 ## At the University
 
-In the university first year and second semester we are learning OOP, Database grade 1 and Software Development using Java, you can find more here:
+I am studying Software Engineering at UNC(Universidade do Contestado) in Concórdia, state of Santa Catarina, south of Brazil. I started in 2021 and i will end(if nothing goes wrong :joy:) in december 2024.
 
-<a href="https://github.com/bevilaquabruno/unc_DevSoftware2021">
-  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=unc_DevSoftware2021&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
-</a>
-
-```
-   _____
-  | ___ |
-  ||   ||  Java
-  ||___||
-  |   _ |
-  |_____|
- /_/_|_\_\----.
-/_/__|__\_\   )
-             (
-             []
-```
-
-<a href="https://github.com/bevilaquabruno/unc_banco1">
-  <img align="right" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=unc_banco1&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
-</a>
-
-```
-      _ _
- .-. | | |
- |D|_|I|D|
- |a|S|s|.|<\
- |v| |s| | \\
- |i| |e|B|  \\ Database 1
- |d| |l| |   \>
-""""""""""""""""""
-```
