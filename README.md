@@ -2,7 +2,7 @@
       |\      _,,,---,,_
 ZZZzz /,`.-'`'    -.  ;-;;,_
      |,4-  ) )-,_. ,\ (  `'-'
-    '---''(_/--'  `-'\_)  Bevilaqua is sleeping, come another time!
+    '---''(_/--'  `-'\_)  sleeping...
 ```
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NoWayBevilaqua)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=A33AAB)](https://www.instagram.com/bevilaquabruno/)
