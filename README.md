@@ -17,7 +17,7 @@ I'm [Bruno Bevilaqua](https://bevilaqua.surge.sh) from Brazil ✌
 💬 If you want to contact me, you can do it in my [Twitter](https://twitter.com/NoWayBevilaqua), [Instagram](https://www.instagram.com/bevilaquabruno/) or my email bbbevilaqua@gmail.com
 
 
-I'm also studying software engineering at UNC(Universidade do Contestado) in second year first semester.
+I'm also studying software engineering at UNC(Universidade do Contestado).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
