@@ -12,10 +12,11 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 
 I'm [Bruno Bevilaqua](https://bevilaqua.surge.sh) from Brazil ✌
 
-👨‍💻 I'm a web developer currently working with [PHP](https://www.php.net/) and [NodeJs](https://nodejs.org/en/)(TS of course). For myself i'm learning [Ruby](https://www.ruby-lang.org/en/), [ReactJs](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/) and much more! ✌😄
+👨‍💻 I'm a web developer(for myself) currently working with [PHP](https://www.php.net/) and [NodeJs](https://nodejs.org/en/)(TS of course). For myself i'm learning [Nest](https://nestjs.com/), [Angular](https://angular.io/), [Typescript](https://www.typescriptlang.org/) and much more!
 
-💬 If you want to contact me, you can do it in my [Twitter](https://twitter.com/NoWayBevilaqua), [Instagram](https://www.instagram.com/bevilaquabruno/) or my email bbbevilaqua@gmail.com
+💬 If you want to contact me, you can do it in my [Twitter](https://twitter.com/NoWayBevilaqua), [Instagram](https://www.instagram.com/bevilaquabruno/) or my email bruno_bevilaqua@protonmail.com
 
+I work in [Gdoor Zucchetti](https://gdoor.com.br) training our customers to use the software.
 
 I'm also studying software engineering at UNC(Universidade do Contestado).
 
@@ -28,16 +29,16 @@ Take a look at the repositories below
   _.|o o  |_   ) )
 -(((---(((-----------------------------------------------
 ```
-<a href="https://github.com/bevilaquabruno/coinberpunk-react">
-  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=coinberpunk-react&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
+<a href="https://github.com/bevilaquabruno/libevilaqua-backend">
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=libevilaqua-backend&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/bevilaquabruno/libevilaqua-angular">
+  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=libevilaqua-angular&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/bevilaquabruno/simple-blockchain">
   <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=simple-blockchain&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/bevilaquabruno/library-api">
-  <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=library-api&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/bevilaquabruno/registro-vendas">
