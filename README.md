@@ -27,6 +27,11 @@ Take a look at the repositories below
   _.|o o  |_   ) )
 -(((---(((-----------------------------------------------
 ```
+
+## At the University
+
+I am studying Software Engineering at UNC(Universidade do Contestado) in Concórdia, state of Santa Catarina, south of Brazil. I started in 2021 and i will end(if nothing goes wrong :joy:) in december 2024.
+
 <a href="https://github.com/bevilaquabruno/libevilaqua-backend">
   <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=libevilaqua-backend&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
 </a>
@@ -42,8 +47,3 @@ Take a look at the repositories below
 <a href="https://github.com/bevilaquabruno/registro-vendas">
   <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=registro-vendas&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
 </a>
-
-## At the University
-
-I am studying Software Engineering at UNC(Universidade do Contestado) in Concórdia, state of Santa Catarina, south of Brazil. I started in 2021 and i will end(if nothing goes wrong :joy:) in december 2024.
-
