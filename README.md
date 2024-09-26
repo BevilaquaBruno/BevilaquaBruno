@@ -22,6 +22,8 @@ I'm studying software engineering at UNC(Universidade do Contestado).
 
 I also like to write reviews, check it out!
 - https://bevilaquabruno.github.io/reviews/
+You can suggest me any review in the issues tab
+- https://github.com/BevilaquaBruno/reviews/issues
 
 ```
 Take a look at the repositories below
