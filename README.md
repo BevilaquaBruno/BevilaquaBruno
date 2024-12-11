@@ -21,10 +21,10 @@ I'm studying software engineering at UNC(Universidade do Contestado).
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 I also like to write reviews, check it out!
-- https://bevilaquabruno.github.io/reviews/
+- [reviews.bevilaqua.dev.br](https://reviews.bevilaqua.dev.br)
 
 You can suggest me any review in the issues tab
-- https://github.com/BevilaquaBruno/reviews/issues
+- [https://github.com/BevilaquaBruno/reviews/issues](https://github.com/BevilaquaBruno/reviews/issues)
 
 ```
 Take a look at the repositories below
