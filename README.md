@@ -7,7 +7,6 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NoWayBevilaqua)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=A33AAB)](https://www.instagram.com/bevilaquabruno/)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-informational?style=flat&logo=dev.to&logoColor=white&color=AAAAAA)](https://dev.to/bevilaquabruno)
-[![Buy Me a Coffee Badge](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-To%20Help%20My%20Studies-informational?style=flat&logo=buymeacoffee&logoColor=white&color=fff200)](https://www.buymeacoffee.com/bevilaqua)
 
 
 I'm [Bruno Bevilaqua](https://bevilaqua.surge.sh) from Brazil ✌
