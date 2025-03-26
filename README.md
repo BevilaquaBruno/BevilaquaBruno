@@ -11,11 +11,11 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 
 I'm [Bruno Bevilaqua](https://bevilaqua.surge.sh) from Brazil ✌
 
-👨‍💻 I'm a web developer(for myself) currently working with [PHP](https://www.php.net/) and [NodeJs](https://nodejs.org/en/)(TS of course). For myself i'm learning [Nest](https://nestjs.com/), [Angular](https://angular.io/), [Typescript](https://www.typescriptlang.org/) and much more!
+👨‍💻 I'm a web developer(for myself) currently working with [PHP](https://www.php.net/) and [NodeJs](https://nodejs.org/en/)(TS of course). Take a look at some of my repositories to undestande more!
 
 💬 If you want to contact me, you can do it in my [Twitter](https://twitter.com/NoWayBevilaqua), [Instagram](https://www.instagram.com/bevilaquabruno/) or my email bruno.f.bevilaqua@gmail.com
 
-I'm studying software engineering at UNC(Universidade do Contestado).
+I graduated in software engineering at UNC(Universidade do Contestado).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
