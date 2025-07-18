@@ -33,9 +33,7 @@ Take a look at the repositories below
 -(((---(((-----------------------------------------------
 ```
 
-## At the University
-
-I am studying Software Engineering at UNC(Universidade do Contestado), south of Brazil. I started in 2021 and i will end(if nothing goes wrong :joy:) in december 2024.
+Graduated in Software Engineering at UNC(Universidade do Contestado) 2021 - 2024
 
 <a href="https://github.com/bevilaquabruno/libevilaqua-backend">
   <img align="left" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bevilaquabruno&repo=libevilaqua-backend&title_color=fc00a8&text_color=FFFFFF&icon_color=fc00a8&bg_color=1A2B34" />
